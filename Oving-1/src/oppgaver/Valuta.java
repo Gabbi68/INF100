@@ -9,7 +9,7 @@ public class Valuta {
    
    /*
     * Slike verdier som en kurs forandrer seg fra dag til dag
-    * og bør heller lastes ned fra nettet før bruk.
+    * og bør heller lastes ned fra nettet før bruk...
     */
  
    double eur = nok/KURS;
