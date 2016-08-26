@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Oppgaver/Oppgaver.iml" filepath="$PROJECT_DIR$/Oppgaver/Oppgaver.iml" />
       <module fileurl="file://$PROJECT_DIR$/Oving-1/Oving-1.iml" filepath="$PROJECT_DIR$/Oving-1/Oving-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Testing Datatypes/Testing Datatypes.iml" filepath="$PROJECT_DIR$/Testing Datatypes/Testing Datatypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Testing Forms/Testing Forms.iml" filepath="$PROJECT_DIR$/Testing Forms/Testing Forms.iml" />
