@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Oving-1/Oving-1.iml" filepath="$PROJECT_DIR$/Oving-1/Oving-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Testing Datatypes/Testing Datatypes.iml" filepath="$PROJECT_DIR$/Testing Datatypes/Testing Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testing Forms/Testing Forms.iml" filepath="$PROJECT_DIR$/Testing Forms/Testing Forms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Testing git/Testing git.iml" filepath="$PROJECT_DIR$/Testing git/Testing git.iml" />
     </modules>
   </component>
