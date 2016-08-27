@@ -1,3 +1,5 @@
+package Kapittel2;
+
 public class P2_02 {
-  //insert something
+  //Has not yet started on this
 }
